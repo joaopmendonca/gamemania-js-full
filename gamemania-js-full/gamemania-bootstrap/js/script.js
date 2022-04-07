@@ -5,6 +5,14 @@ function enviarEmail() {
     console.log(email);
 }
 
+let login = document.getElementById("login-form")
+let senha = document.getElementById("login-form")
+
+function login() {
+    let login = email.value;
+    let senha = email.value;
+}
+
 //lista de noticias
 let listaDestaques = [{
 

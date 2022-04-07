@@ -118,6 +118,25 @@ header p {
     bottom: 25px;
 }
 
+.container-login {
+    align-items: center;
+    display: block;
+    padding-bottom: 5px;
+}
+
+.container-login .btn {
+    margin-top: 10px;
+}
+
+.container-login form {
+    margin-top: 10px;
+    position: relative;
+}
+
+.form {
+    text-align: center;
+}
+
 
 /*Galleria*/
 
